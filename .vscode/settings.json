@@ -1,0 +1,5 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/vivek/map_ws/devel/lib/python2.7/dist-packages"
+    ]
+}
